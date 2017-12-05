@@ -14,6 +14,8 @@ The game start with AI who plays black color, and human player(you) plays white 
 
 ### Minimax with α-β pruning
 
+<img width="409" alt="ai" src="https://user-images.githubusercontent.com/26604402/33599538-6b11c668-d9e1-11e7-9ade-e3636b346178.png">
+
 It returns the action corresponding to the best possible move that leads to the outcome with the best utility, under the assumption that the opponent plays to minimize utility. The function MaxValue() and MinValue go through the whole game tree, all the way to the leaves or the states whose depth reach the maximfum look ahead steps.
 
 ### Deep first search
