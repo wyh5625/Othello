@@ -4,6 +4,8 @@ It's a game between human player and computer player(AI)
 
 ### Screenshot
 
+<img width="287" alt="aa3" src="https://user-images.githubusercontent.com/26604402/33599660-c4802bf4-d9e1-11e7-9b34-55e51f5d01e5.png">
+
 
 ### Game Rule
 
