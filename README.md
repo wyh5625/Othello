@@ -4,7 +4,6 @@ It's a game between human player and computer player(AI)
 
 ### Screenshot
 
-<img width="288" alt="wechat _20171205170712" src="https://user-images.githubusercontent.com/26604402/33598749-d4a7d9c6-d9de-11e7-8ff7-a9f1b7bab0fd.png">
 
 ### Game Rule
 
